@@ -14,5 +14,5 @@ Inspired by https://github.com/dlinsin/Git.io-OS-X-Service.
 
 1. after few moments go to the github repo page 
 2. click into address bar
-3. click on application name in menubar (Safari,Chrome,ect.) -> Services -> <name of cloned repo>
+3. click on application name in menubar (Safari,Chrome,ect.) -> Services -> &lt;name of cloned repo&gt;
 4. now try to paste (still in address bar). You should get an shortened url of page on which you are now
